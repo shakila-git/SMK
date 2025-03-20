@@ -10,9 +10,22 @@ Welcome to my GitHub profile! I am a **GIS & Remote Sensing Analyst** with exper
 ## 📌 Technical Skills  
 
 - **GIS & Remote Sensing**: ArcGIS, QGIS, ILWIS, Google Earth, HEC-RAS
-- ![ArcGIS Pro](https://github.com/user-attachments/assets/e1ab154c-ae13-4f6e-a78e-640172cc3b91) ![image](https://github.com/user-attachments/assets/2f872729-c309-4b8e-a9e1-c4fe49c6e6d9) ![ILWIS](https://github.com/user-attachments/assets/d9f140af-f263-476d-a754-11930a76c04d) ![GOOGLE Earth Pro](https://github.com/user-attachments/assets/77e3fcb5-ac13-4c8e-8001-1e1031275177) ![HEC-RAS](https://github.com/user-attachments/assets/363f64c2-36e0-4560-b2f8-c54964862549)
+
+   <p align="middle">
+  <img src="https://github.com/user-attachments/assets/ccd47213-d7f7-4bd2-acde-0cfbb09ee0eb" alt="ArcMap" width="80">
+   <img src="https://github.com/user-attachments/assets/353844a7-141a-4ff7-8a63-c797e41e8b35" alt="ArcGIS" width="80">
+  <img src="https://github.com/user-attachments/assets/ca662324-8626-4ddb-bdb7-766aff39420d" alt="QGIS" width="80">
+  <img src="https://github.com/user-attachments/assets/77e3fcb5-ac13-4c8e-8001-1e1031275177" alt="Google Earth" width="80">
+  <img src="https://github.com/user-attachments/assets/363f64c2-36e0-4560-b2f8-c54964862549" alt="HEC-RAS" width="80">
+  <img src="https://github.com/user-attachments/assets/d9f140af-f263-476d-a754-11930a76c04d" alt="ILWIS" width="80">
+   </p>
+
 - **Database Management**: PostgreSQL
-- ![PostgreSQL](https://github.com/user-attachments/assets/0d7f12a3-6697-4190-804a-c40a3e388be4) 
+  
+<p align="middle">
+  <img src="https://github.com/user-attachments/assets/688729dc-c742-45b9-ae7e-ed3917f7f02a" alt="PostgreSQL" width="80">
+</p>
+
 - **Geospatial Analysis**: Spatial modeling, hydrological analysis, terrain analysis, land-use classification  
 - **Programming & Data Analytics**: Python (basic)
 - **Geological Investigations**: Geological mapping, petrology, structural geology, sedimentology  
@@ -84,9 +97,10 @@ Welcome to my GitHub profile! I am a **GIS & Remote Sensing Analyst** with exper
 ## 💡 Community Engagement  
 
 I actively participate in **community and environmental initiatives**, such as:  
-- **Sahodara Piyapath** – Educational program for Rural Schools organized by **Science Students' Union**, University of Peradeiya
-- **Cycle Tour and School Rehabilitation Program** – Promoting sustainable transportation & awareness on environmental conservation and educational initiatives organized by **University Explorers' Club**, University of Peradeniya
-- **Akura** – Educational initiatives supporting underprivileged students organized by **University Geological Society**, University of Peradeniya 
+- **Sahodara Piyapath** – Educational program for Rural Schools, organized by **Science Students' Union**, University of Peradeiya
+- **Cycle Tour and School Rehabilitation Program** – Promoting sustainable transportation & awareness on environmental conservation and educational initiatives, organized by **University Explorers' Club**, University of Peradeniya
+- **Akura** – Educational initiatives supporting underprivileged students, organized by **University Geological Society**, University of Peradeniya
+- **PeraCHAMPS School Orientation and Hiking Program** – Student mentoring and outdoor education for the students from rural schools, organized by **University Explorers' Club**, University of Peradeniya
 
 ---
 
